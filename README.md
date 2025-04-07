@@ -1,6 +1,6 @@
 # 🏀 Nike Landing Page - Tailwind CSS
 
-A sleek and responsive **Nike Landing Page** built using **Tailwind CSS**. This landing page highlights modern design, clean layout, and mobile-first responsiveness — ideal for showcasing frontend skills.
+A sleek and responsive **Nike Landing Page** built using **Tailwind CSS**. This landing page highlights modern design, clean layout, and mobile-first responsiveness — ideal for showcasing front-end skills.
 
 ## 📸 Preview
 
@@ -27,4 +27,5 @@ To view or modify the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nike-landing-page-tailwind.git
+   git clone https://github.com/PrabhjotSinghUbhi/Nike-design.git
+```
